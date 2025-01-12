@@ -1,1 +1,1 @@
-Simple OpenGL example that show triangle rotating.
+Simple OpenGL example that shows triangle rotating.
